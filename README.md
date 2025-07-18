@@ -1,14 +1,28 @@
-## Hi there 👋
 
-I'm **Hasina**, an enthusiastic Information Technology student at **Malla Reddy College** 👩‍💻.  
-I'm passionate about tech, with a strong foundation in programming and data tools.  
-I enjoy building creative projects and learning something new every day!
+# 👋 Hi there, I'm Hasina!
 
-- 🔭 I’m currently working on enhancing my Full Stack Development skills  
-- 🌱 I’m currently learning AI, JavaScript frameworks, and backend development  
-- 👯 I’m looking to collaborate on web development and AI/ML projects  
-- 🤔 I’m looking for help with open-source contributions and real-world projects  
-- 💬 Ask me about Python, SQL, HTML/CSS, Java, Power BI, and Tableau  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shaikhasina)
-- 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I love turning ideas into user-friendly digital solutions 🚀
+I'm an enthusiastic 💡 Information Technology student from **Malla Reddy College**, passionate about technology and innovation.
+
+---
+
+## 🧠 About Me
+
+- 🎓 IT Undergraduate  
+- 💻 Skilled in: **Python**, **SQL**, **HTML**, **CSS**, **Java**, **C**  
+- 📊 Tools I use: **Tableau**, **Power BI**, **Excel**, **Microsoft Office**  
+- 🗣️ Strong communication & problem-solving skills  
+- 🚀 Quick learner with a growth mindset  
+
+---
+
+## 🔍 Interests
+
+- 🌐 Full Stack Development  
+- 🤖 Artificial Intelligence & Machine Learning  
+
+---
+
+## 📫 Connect With Me
+
+Let's build something amazing together! Feel free to reach out and collaborate.
+
